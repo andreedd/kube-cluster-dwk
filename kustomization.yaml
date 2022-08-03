@@ -6,3 +6,4 @@ resources:
   - helm/nats.yaml
   - helm/prometheus.yaml
   - namespaces.yaml
+  - helm.yaml
